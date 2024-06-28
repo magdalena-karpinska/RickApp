@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build--base=/RickApp",
+    "build": "tsc && vite build --base=/RickApp",
     "preview": "vite preview"
   },
   "devDependencies": {
